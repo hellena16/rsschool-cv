@@ -1,0 +1,9 @@
+* {
+  color: rgb(39, 33, 33);
+}
+
+header {
+  display: flex;
+  height: 30%;
+  width: 100%;
+}
